@@ -1,0 +1,17 @@
+.middle-section h1{
+    margin-top: 20vh;
+}
+.cards{
+    gap:25px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+/*@media (max-width:375px) {
+    .cards_b{
+        position: absolute;
+        left: 75px;
+        top: 300px;
+    }
+}*/
+
